@@ -1,0 +1,9 @@
+name: stamps
+channels:
+ - defaults
+dependencies:
+ - python
+ - astropy
+ - pandas
+ - numpy
+ - matplotlib
